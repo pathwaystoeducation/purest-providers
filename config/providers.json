@@ -1589,7 +1589,7 @@
       }
     },
     "https://login.microsoftonline.com": {
-      "common/oauth2/{endpoint}": {
+      "bc48fd5e-6d0b-4cb2-8eb7-4d9386c3de2e/oauth2/{endpoint}": {
         "__path": {
           "alias": "oauth"
         }
